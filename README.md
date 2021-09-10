@@ -2,6 +2,7 @@
 * Author: Joel Koehler
 * Class: CS121 Section 2
 * Semester: Spring 2018
+* Original assignment: https://cs.boisestate.edu/~cs121/projects/p5/
 
 ### Overview
 
