@@ -21,14 +21,3 @@ Color-key for tiles:
 * Yellow: There is one mine in the four adjacent tiles
 * Orange: There are two mines in the four adjacent tiles
 * Red: There are three mines in the four adjacent tiles
-
-### Testing
-
-To test this project, I had a friend play it for a few minutes and try to break it. He found several
-issues that I was able to fix. My program has a few minor issues with it still that I was unable to 
-fix in the alloted time. These issues are buttons not being disabled when I win or lose. They do 
-disable when I give up, and I'm using the exact same lines of code to do the disabling, it just doesn't 
-work when it's placed in the GridListener.
-
-
-
